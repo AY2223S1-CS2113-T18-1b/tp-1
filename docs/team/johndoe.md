@@ -4,3 +4,7 @@
 
 
 ### Summary of Contributions
+Indraneel Paranjape
+Naxrul Syahmi
+Ong Shao Yong
+Matthew Phua
